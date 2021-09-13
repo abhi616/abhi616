@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi616&label=Profile%20views&color=0e75b6&style=flat" alt="abhi616" /> </p>
 
+<!-- <img align="right" alt="coding" width=400 src=" -->
+
 - 🌱 I’m currently learning **HTML , CSS , JavaScript & C#**
 
 - 💬 Ask me about **C,C++, SQL**
@@ -12,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhisy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisy11" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100019385109473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100019385109473" height="30" width="40" /></a>
 <a href="https://instagram.com/_abhi_143._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi_143._" height="30" width="40" /></a>
 </p>
 
