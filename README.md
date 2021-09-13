@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi616&label=Profile%20views&color=0e75b6&style=flat" alt="abhi616" /> </p>
 
-<!-- <img align="right" alt="coding" width=400 src=" -->
+<!-- <img align="right" alt="coding" width=400 src="https://images.app.goo.gl/ATSkWhPEERf5XNin6"/> -->
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript & C#**
 
