@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ay891241@gmail.com**
 
-- ⚡ Fun fact **That I'm weird**
+- ⚡ Fun fact **That I'm weird😬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
