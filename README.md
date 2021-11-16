@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi616&label=Profile%20views&color=0e75b6&style=flat" alt="abhi616" /> </p>
+
+<p align="left"> <a href="https://twitter.com/abhisy11" target="blank"><img src="https://img.shields.io/twitter/follow/abhisy11?logo=twitter&style=for-the-badge" alt="abhisy11" /></a> </p>
 
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 🌱 I’m currently learning **HTML , CSS , JavaScript & C#**
+- 🔭 I’m currently working on **C# .Net**
 
-- 💬 Ask me about **C, C++, SQL**
+- 🌱 I’m currently learning **HTML , CSS , JavaScript , C# & Java**
+
+- 💬 Ask me about **C , C++ & SQL**
 
 - 📫 How to reach me **ay891241@gmail.com**
 
 - ⚡ Fun fact **That I'm weird😬**
-
-<p align="left"> <a href="https://twitter.com/abhisy11" target="blank"><img src="https://img.shields.io/twitter/follow/abhisy11?logo=twitter&style=for-the-badge" alt="abhisy11" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi616&show_icons=true&locale=en" alt="abhi616" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi616&" alt="abhi616" /></p>
-
