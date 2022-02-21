@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 🔭 I’m currently working on **College Project On C#**
+- 🔭 I’m currently working on **College Project On C# .Net**
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript , & C#**
 
