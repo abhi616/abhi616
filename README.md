@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multiple Projects**
 
-- 🌱 I’m currently learning **HTML , CSS , JavaScript , C# .Net**
+- 🌱 I’m currently learning **HTML , CSS , JavaScript**
 
 - 💬 Ask me about **C , C++ & SQL**
 
