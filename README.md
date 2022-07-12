@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 🔭 I’m currently working on **Multiple Projects**
+- 🔭 I’m currently working on **Own Project**
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript**
 
